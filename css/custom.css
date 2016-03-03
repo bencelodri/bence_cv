@@ -55,6 +55,18 @@ body{
 	text-align:justify;
 }
 
+
+dt{
+	font-size: 20px;
+	color: #86B8E3;
+	
+}
+
+.szak{
+	font-style: italic;
+	font-size: 16px;
+}
+
 .mob_img{
 	border-radius: 15px;
 	width: 80%;
